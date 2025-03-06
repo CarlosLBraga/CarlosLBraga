@@ -1,5 +1,5 @@
 ## Olá meu nome é Carlos 👋
-## Aluno de Sistemas de Informação na [UFF] (https://www.uff.br/)
+## Aluno de Sistemas de Informação na UFF
 
 <!--
 **CarlosLBraga/CarlosLBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
